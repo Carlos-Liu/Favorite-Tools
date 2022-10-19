@@ -1,3 +1,12 @@
+# 装机软件
+- Notepad++
+- Devart Code Compare
+- Github Desktop
+- Git Bash
+- 7zip
+- Everything
+- Visual Studio Code
+
 # **Development**
 #### Cockpit
 > Requirements management and traceability tool. 集成desing input和software requirement specification及test case文档，并对相关的功能通过ID进行关联，从而达到追踪的目的。
